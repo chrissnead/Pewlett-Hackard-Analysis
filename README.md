@@ -5,7 +5,7 @@ This analysis breaks down the age of employees and amount of time they've been w
 
 ## Results
 - The [Retirement Titles](Data/retirement_titles.csv) table groups all employees together who are eligibile for retirement.
-- As you can see in the *retirement_titles* table, there are duplicate names shown. This is because over time people have had different titles within the company. In the [Unique Titles](Data/unique_titles.csv) table, we fix that by pulling only the most recent title for each employee eligible for retirement.
+- As you can see in the *Retirement Titles* table, there are duplicate names shown. This is because over time people have had different titles within the company. In the [Unique Titles](Data/unique_titles.csv) table, we fix that by pulling only the most recent title for each employee eligible for retirement.
 - The [Retiring Titles](Data/retiring_titles.csv) table breaks down the total retirement number by department in order to assess where retirement will be most impacted.
 - The [Mentorship Eligibility](Data/mentorship_eligibility.csv) filters down the employees that are able to mentor lower level employees to replace those getting ready to retire.
 
