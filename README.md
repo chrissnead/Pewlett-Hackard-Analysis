@@ -11,3 +11,7 @@ This analysis breaks down the age of employees and amount of time they've been w
 
 ## Summary
 72,458 roles will need to be filled as the "silver tsunami" begins to make an impact. There are only 1,549 qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees, so major employee developments and hiring decisions are going to need to happen to combat the loss of senior talent.
+
+## Resources
+- Language(s): SQL
+- Tools: PostgreSQL, pgAdmin
