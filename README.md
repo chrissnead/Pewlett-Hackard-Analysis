@@ -1,7 +1,7 @@
 # Retirement Impact
 
 ## Overview
-This analysis breaks down the age of employees and amount of time they've been with the company to determine the impact retirement is going to have on each department.
+This analysis measures the age of employees compared to the amount of time they've been with the company to determine the impact retirement is going to have on each department. These results will be used to create a mentorship program that will help train current employees to fill the roles of those retiring and create a smooth transition for new talent to join the company.
 
 ## Results
 - The [Retirement Titles](Data/retirement_titles.csv) table groups all employees together who are eligibile for retirement.
